@@ -1,2 +1,1 @@
-# catsgram
-Социальная сеть любителей котиков.
+# module2_catsgram
